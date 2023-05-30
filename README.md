@@ -1,3 +1,14 @@
+# Hold up!
+
+This repository is currently under reconstruction
+
+it will be using Eris and not Discord.js because i feel as it would be better to do that.
+
+and for the name it is 2 words combined
+Akairo + Pheonix
+
+Pheonix, because when they die a new one rises from its ashes.
+
 <div align="center">
   <br />
   <p>
